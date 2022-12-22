@@ -8,8 +8,8 @@
 
     justify-content: space-evenly;
     flex-wrap: wrap;
-    align-items: center;
-    text-align: center;
+    /* align-items: center;
+    text-align: center; */
 }
 .item{
     height: 100px;
